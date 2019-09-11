@@ -8,6 +8,8 @@ Date:   1998
 
 Tags:   rap
 
+Image:  aquemini.png
+
 Status: 9 - Published
 
 Seq:    500

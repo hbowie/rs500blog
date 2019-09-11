@@ -1,0 +1,34 @@
+<?output "../web/index.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Blogging the 500 Greatest Albums of All-Time</title>
+</head>
+<body>
+<?set count = 0?>
+<?nextrec?>
+<?if "=$title$=" eq "Intro" ?>
+<!-- ><img alt="" src="images/=$artist&f$=-=$title&f$=.png"> -->
+<h2>=$title$=</h2>
+
+=$body&o$=
+<?else?>
+<img alt="" src="images/=$image$=">
+
+<p>#=$seq$=</p>
+
+<h2>=$title$=</h2>
+
+<p><em>=$label$=, =$date$=</em></p>
+
+<p>B, 1966: =$brian&h$=</p>
+
+<p>C, 2002: =$charlie&h$=</p>
+
+<p>H, 1951: =$body&h$=</p>
+<?endif?>
+<hr />
+<?loop?>
+</body>
+</html>

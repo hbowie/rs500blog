@@ -7,7 +7,7 @@ Body:
 "C" is a drummer with an idea. Listen to Rolling Stone Magazine's 500 Greatest Albums of All-Time before he graduates high school in the spring of 2020. 
 
 "B" is his uncle and thought, "Hmmm, sounds interesting, maybe I should listen to those too."
- 
+
 "H" is somehow related to both "C" and "B" but none of us can work out exactly how. "H" loves music and knows the early stuff. He wanted in. 
 
 "C" was born in the 2000's. "B" was born in the 1960's. "H" was born in the 1950's.

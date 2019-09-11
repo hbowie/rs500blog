@@ -8,6 +8,8 @@ Date:   1983
 
 Tags:   pop
 
+Image:  shes-so-unusual.jpg
+
 Status: 9 - Published
 
 Seq:    487
