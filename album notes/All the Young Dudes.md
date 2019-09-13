@@ -8,6 +8,8 @@ Date:   1972
 
 Tags:   glam
 
+Image:  all-the-young-dudes.jpg
+
 Status: 4 - In Work
 
 Seq:    484
@@ -15,6 +17,7 @@ Seq:    484
 Brian: 
 
 Really enjoyed this one. You can hear Bowie’s production for sure. Easy pick here is “All The Young Dudes”, but I am going with “Ready for Love / After Lights”. I have no way of knowing, but I can imagine lots of 70’s bands picking up cues from that track. 
+
 
 Charlie: 
 

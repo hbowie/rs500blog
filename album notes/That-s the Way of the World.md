@@ -8,6 +8,8 @@ Date:   1975
 
 Tags:   rhythm and blues
 
+Image:  thats-the-way-of-the-world.jpg
+
 Status: 4 - In Work
 
 Seq:    486

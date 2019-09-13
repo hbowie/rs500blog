@@ -8,7 +8,11 @@ Date:   1976
 
 Tags:   rock
 
+Image:  destroyer.jpg
+
 Status: 9 - Published
+
+Pub Date: 05 Sep 2019
 
 Seq:    489
 

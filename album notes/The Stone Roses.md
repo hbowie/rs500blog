@@ -8,7 +8,11 @@ Date:   1989
 
 Tags:   rock
 
+Image:  stone-roses.jpg
+
 Status: 9 - Published
+
+Pub Date: 01 Sep 2019
 
 Seq:    498
 

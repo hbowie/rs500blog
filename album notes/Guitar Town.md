@@ -8,6 +8,8 @@ Date:   1986
 
 Tags:   country
 
+Image:  guitar-town.jpg
+
 Status: 4 - In Work
 
 Seq:    482
@@ -16,9 +18,11 @@ Brian:
 
 Fun country record from a good songwriter. But no way this is better than #483. Favorite track on this one: “Guitar Town”. Some good lines in there.
 
+
 Charlie: 
 
 Solid country record with some cool songs. Kinda funny how the albums are so different in style from one another. You really have to take a minute between albums to like digest and prepare for a totally different vibe. Anywho, great album. Not life changing but definitely cool.
+
 
 Body: 
 

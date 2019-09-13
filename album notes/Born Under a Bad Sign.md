@@ -8,7 +8,11 @@ Date:   1967
 
 Tags:   blues
 
+Image:  born-under-a-bad-sign.jpg
+
 Status: 9 - Published
+
+Pub Date: 05 Sep 2019
 
 Seq:    491
 

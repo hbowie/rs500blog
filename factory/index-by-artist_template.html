@@ -1,0 +1,64 @@
+<?output "../web/index-by-artist.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<title>Index by Artist | RS500.blog</title>
+  <link rel="icon" type="image/x-icon" href="=$relative$=favicon.ico" />
+  <link rel="icon" type="image/png" href="=$relative$=favicon.png" />
+	<link rel="stylesheet" href="=$relative$=css/bootstrap.min.css" type="text/css" />
+	<link rel="stylesheet" href="=$relative$=fonts/stylesheet.css" type="text/css" />
+	<link rel="stylesheet" href="=$relative$=fonts/equity_ta.css" type="text/css" />
+	<link rel="stylesheet" href="=$relative$=fonts/concourse_t4.css" type="text/css" />
+	<link rel="stylesheet" href="=$relative$=css/styles.css" type="text/css" />
+</head>
+<body>
+<div class="container" style="max-width: 36rem;">
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+
+  <a class="navbar-brand" href="=$relative$=index.html">
+  	<img src="=$relative$=images/record.png" width="32" height="32" alt="">
+  	<span class="brand-title">&nbsp;RS500.blog</span>
+  </a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="=$relative$=index.html">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="=$relative$=index-by-artist.html">Artists</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<div class="row">
+<div class="col">
+<h2>Artists</h2>
+<hr />
+<?nextrec?>
+<?definegroup 1 "=$artist$=" ?>
+<?ifendgroup 1 ?>
+</ul>
+<?endif?>
+<?ifnewgroup 1 ?>
+<h3><a name="=$artist&f$=">=$artist$=</a></h3>
+<ul>
+<?endif?>
+<li>#=$seq$= | =$date$= | <a href="albums/=$artist&f$=-=$title&f$=.html">=$title$=</a></li>
+<?loop?>
+</div> <!-- end column    -->
+</div> <!-- end row       -->
+</div> <!-- end container -->
+<script src="=$relative$=js/jquery.min.js"></script>
+<script src="=$relative$=js/popper.min.js"></script>
+<script src="=$relative$=js/bootstrap.min.js"></script>
+</body>
+</html>

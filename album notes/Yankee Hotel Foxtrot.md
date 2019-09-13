@@ -8,7 +8,11 @@ Date:   2002
 
 Tags:   alt rock
 
+Image:  yankee-hotel-foxtrot.jpg
+
 Status: 9 - Published
+
+Pub Date: 01 Sep 2019
 
 Seq:    493
 

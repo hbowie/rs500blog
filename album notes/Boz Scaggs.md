@@ -12,6 +12,8 @@ Image:  boz-scaggs.jpg
 
 Status: 9 - Published
 
+Pub Date: 01 Sep 2019
+
 Seq:    496
 
 Brian: 

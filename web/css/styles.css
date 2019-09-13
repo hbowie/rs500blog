@@ -22,3 +22,8 @@ h6 { font-size: 1.0em; }
 	font-family: equity-text, 'Helvetica Neue', Helvetica, Arial, serif;
 	font-size: 20px;
 }
+
+.brand-title {
+  font-family: concourse_t4regular, 'Helvetica Neue', Helvetica, Arial, serif;
+	font-size: 20px;
+}

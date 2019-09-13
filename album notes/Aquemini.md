@@ -12,6 +12,8 @@ Image:  aquemini.png
 
 Status: 9 - Published
 
+Pub Date: 01 Sep 2019
+
 Seq:    500
 
 Brian: 

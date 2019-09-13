@@ -12,6 +12,8 @@ Image:  give-it-up.jpg
 
 Status: 9 - Published
 
+Pub Date: 01 Sep 2019
+
 Seq:    495
 
 Brian: 

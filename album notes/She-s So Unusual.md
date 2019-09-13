@@ -12,6 +12,8 @@ Image:  shes-so-unusual.jpg
 
 Status: 9 - Published
 
+Pub Date: 05 Sep 2019
+
 Seq:    487
 
 Brian: 

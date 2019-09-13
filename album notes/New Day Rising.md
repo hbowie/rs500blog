@@ -12,6 +12,8 @@ Image:  new-day-rising.png
 
 Status: 9 - Published
 
+Pub Date: 05 Sep 2019
+
 Seq:    488
 
 Brian: 

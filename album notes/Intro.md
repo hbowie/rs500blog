@@ -2,9 +2,13 @@ Title:  Intro
 
 Status: 9 - Published
 
+Pub Date: 01 Sep 2019
+
 Seq:    999
 
 Body: 
+
+##### Blogging the 500 Greatest Albums of All-Time
 
 "C" is a drummer with an idea. Listen to Rolling Stone Magazine's 500 Greatest Albums of All-Time before he graduates high school in the spring of 2020. 
 

@@ -8,7 +8,11 @@ Date:   2001
 
 Tags:   garage rock
 
+Image:  white-blood-cells.jpg
+
 Status: 9 - Published
+
+Pub Date: 01 Sep 2019
 
 Seq:    497
 

@@ -8,6 +8,8 @@ Date:   1994
 
 Tags:   grunge
 
+Image:  vitalogy.jpg
+
 Status: 4 - In Work
 
 Seq:    485
@@ -15,6 +17,7 @@ Seq:    485
 Brian: 
 
 For petty reasons I will not get into, I just resisted getting into this band when they hit it big even though I was in Seattle and knew a few of the guys. But no denying the talent, and they have grown on me over the years. Overall this is a great rock record, in my mind best listened to with a can of Rain-doggy in one hand and a can of lighter fluid in the other. A few good choices, but “Better Man” stands out. 
+
 
 Charlie: 
 

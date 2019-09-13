@@ -8,7 +8,11 @@ Date:   1971
 
 Tags:   blues
 
+Image:  live-in-cook-county-jail.jpg
+
 Status: 9 - Published
+
+Pub Date: 01 Sep 2019
 
 Seq:    499
 

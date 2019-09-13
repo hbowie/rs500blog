@@ -8,13 +8,18 @@ Date:   1973
 
 Tags:   blues
 
+Image:  tres-hombres.jpg
+
 Status: 9 - Published
+
+Pub Date: 05 Sep 2019
 
 Seq:    490
 
 Brian: 
 
 I always looked at these guys as a bit of a gimmick, probably because of MTV over cooking a sexy soufle of “Sharp Dressed Man” with Robert Palmer and Madonna videos. But this is a good record. “La Grange” is honestly a lot of fun.  
+
 
 Charlie: 
 

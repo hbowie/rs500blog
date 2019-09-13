@@ -14,6 +14,8 @@ Image:
 
 Status: 1 - Idea; 4 - In Work; 9 - Published;
 
+Pub Date: 
+
 Seq: 
 
 Index: 
