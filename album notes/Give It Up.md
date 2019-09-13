@@ -8,6 +8,8 @@ Date:   1972
 
 Tags:   rock
 
+Image:  give-it-up.jpg
+
 Status: 9 - Published
 
 Seq:    495

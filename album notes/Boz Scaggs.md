@@ -8,6 +8,8 @@ Date:   1969
 
 Tags:   americana
 
+Image:  boz-scaggs.jpg
+
 Status: 9 - Published
 
 Seq:    496

@@ -1,0 +1,17 @@
+<?nextrec?>
+<?output "../nav-includes/higher-than-=$seq$=.html"?>
+<?if "=$prior-seq$=" ?>
+<?if =$prior-seq$= eq 999 ?>
+		<li class="nav-item">
+			<a class="nav-link" href="../index.html">Intro</a>
+		</li>
+<?else?>
+		<li class="nav-item">
+			<a class="nav-link" href="=$prior-artist&f$=-=$prior-title&f$=.html">#=$prior-seq$=</a>
+		</li>
+<?endif?>
+<?endif?>
+<?set prior-title = "=$title$=" ?>
+<?set prior-artist = "=$artist$=" ?>
+<?set prior-seq = "=$seq$=" ?>
+<?loop?>

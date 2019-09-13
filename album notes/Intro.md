@@ -2,6 +2,8 @@ Title:  Intro
 
 Status: 9 - Published
 
+Seq:    999
+
 Body: 
 
 "C" is a drummer with an idea. Listen to Rolling Stone Magazine's 500 Greatest Albums of All-Time before he graduates high school in the spring of 2020. 
@@ -12,7 +14,7 @@ Body:
 
 "C" was born in the 2000's. "B" was born in the 1960's. "H" was born in the 1950's.
 
-We decided to record our thoughts and notes on the albums as we go along. Most of these are jots and hot-takes, and a way to record the process. We will not always agree, but that's kinda the point.
+We decided to record our thoughts and notes on the albums as we go along, starting at # 500 and working our way towards the top. Most of these are jots and hot-takes, and a way to record the process. We will not always agree, but that's kinda the point.
 
 We have a lot to get through, so keep up.
 

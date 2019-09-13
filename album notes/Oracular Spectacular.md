@@ -8,6 +8,8 @@ Date:   2008
 
 Tags:   rock
 
+Image:  orcular-spectacular.jpg
+
 Status: 9 - Published
 
 Seq:    494

@@ -1,0 +1,103 @@
+<?nextrec?>
+<?if =$seq$= eq 999 ?>
+<?output "../web/index.html"?>
+<?else?>
+<?output "../web/albums/=$artist&f$=-=$title&f$=.html"?>
+<?endif?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<?if =$seq$= eq 999 ?>
+	<title>Blogging the 500 Greatest Albums of All-Time | RS500.blog</title>
+<?else?>
+	<title>=$title$= by =$artist$= | RS500.blog</title>
+<?endif?>
+	<link rel="stylesheet" href="=$relative$=css/bootstrap.min.css" type="text/css" />
+	<link rel="stylesheet" href="=$relative$=fonts/stylesheet.css" type="text/css" />
+	<link rel="stylesheet" href="=$relative$=fonts/equity_ta.css" type="text/css" />
+	<link rel="stylesheet" href="=$relative$=fonts/concourse_t4.css" type="text/css" />
+	<link rel="stylesheet" href="=$relative$=css/styles.css" type="text/css" />
+</head>
+<body>
+<div class="container">
+
+<div class="row">
+<div class="col">
+<div class="card mx-auto my-2"  style="width: 30rem;">
+<?if "=$image$=" ?>
+<img class="card-img-top mx-auto my-4" style="max-width: 385px;"alt="=$title$= album cover" src="=$relative$=images/=$image$=">
+<?endif?>
+<div class="card-header">
+	<ul class="nav nav-tabs card-header-tabs">
+<?if =$seq$= eq 999 ?>
+		<li class="nav-item">
+			<a class="nav-link active" href="#">Intro</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="albums/=$prior-artist&f$=-=$prior-title&f$=.html">#=$prior-seq$=</a>
+		</li>
+<?else?>
+<?include "../nav-includes/higher-than-=$seq$=.html" ?>
+		<li class="nav-item">
+			<a class="nav-link active" href="#">#=$seq$=</a>
+		</li>
+<?if "=$prior-seq$=" ?>
+		<li class="nav-item">
+			<a class="nav-link" href="=$prior-artist&f$=-=$prior-title&f$=.html">#=$prior-seq$=</a>
+		</li>
+<?endif?>
+<?endif?>
+	</ul>
+</div>
+<div class="card-body">
+
+<h3 class="card-title">
+<?if "=$artist$=" ?>
+=$artist$=,
+<?endif?>
+<cite>=$title$=</cite>
+</h3>
+
+<?if =$seq$= eq 999 ?>
+<div class="card-text body-text">
+=$body&o$=
+</div>
+<a href="albums/=$prior-artist&f$=-=$prior-title&f$=.html" class="btn btn-primary">Start</a>
+<a href="albums/=$first-artist&f$=-=$first-title&f$=.html" class="btn btn-primary">Latest</a>
+<?else?>
+<p class="card-text"><em>=$label$=, =$date$=</em></p>
+
+<p class="card-text body-text">B, 1966: =$brian&h$=</p>
+
+<p class="card-text body-text">C, 2002: =$charlie&h$=</p>
+
+<p class="card-text body-text">H, 1951: =$body&h$=</p>
+
+<?if "=$prior-artist$=" ?>
+<a href="=$prior-artist&f$=-=$prior-title&f$=.html" class="btn btn-primary">Next</a>
+<?endif?>
+<?endif?>
+</div> <!-- end of card-body -->
+</div> <!-- end of card -->
+<?endif?>
+</div> <!-- end column    -->
+</div> <!-- end row       -->
+</div> <!-- end container -->
+<script src="=$relative$=js/jquery.min.js"></script>
+<script src="=$relative$=js/popper.min.js"></script>
+<script src="=$relative$=js/bootstrap.min.js"></script>
+</body>
+</html>
+<?set prior-title = "=$title$=" ?>
+<?set prior-artist = "=$artist$=" ?>
+<?set prior-seq = "=$seq$=" ?>
+<?if =$first-seq$= ?>
+<?else?>
+<?set first-seq = =$seq$= ?>
+<?set first-title = "=$title$=" ?>
+<?set first-artist = "=$artist$=" ?>
+<?endif?>
+
+<?loop?>
