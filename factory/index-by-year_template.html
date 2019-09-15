@@ -1,10 +1,10 @@
-<?output "../web/index-by-artist.html"?>
+<?output "../web/index-by-year.html"?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-	<title>Index by Artist | RS500.blog</title>
+	<title>Index by Year | RS500.blog</title>
 <?include "../includes/head-links.html" ?>
 </head>
 <body>
@@ -14,18 +14,18 @@
 
 <div class="row">
 <div class="col">
-<h2>Artists</h2>
+<h2>Years</h2>
 <hr />
 <?nextrec?>
-<?definegroup 1 "=$artist$=" ?>
+<?definegroup 1 "=$date$=" ?>
 <?ifendgroup 1 ?>
 </ul>
 <?endif?>
 <?ifnewgroup 1 ?>
-<h3><a name="=$artist&f$=">=$artist$=</a></h3>
+<h3><a name="year-=$date$=">=$date$=</a></h3>
 <ul>
 <?endif?>
-<li>#=$seq$= | =$date$= | <a href="albums/=$artist&f$=-=$title&f$=.html">=$title$=</a></li>
+<li>#=$seq$= | =$artist$= | <a href="albums/=$artist&f$=-=$title&f$=.html">=$title$=</a></li>
 <?loop?>
 </div> <!-- end column    -->
 </div> <!-- end row       -->

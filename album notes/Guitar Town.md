@@ -10,7 +10,9 @@ Tags:   country
 
 Image:  guitar-town.jpg
 
-Status: 4 - In Work
+Status: 9 - Published
+
+Pub Date: 15 Sep 2019
 
 Seq:    482
 

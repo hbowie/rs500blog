@@ -10,7 +10,9 @@ Tags:   glam
 
 Image:  all-the-young-dudes.jpg
 
-Status: 4 - In Work
+Status: 9 - Published
+
+Pub Date: 15 Sep 2019
 
 Seq:    484
 

@@ -10,7 +10,9 @@ Tags:   rock
 
 Image:  maggot-brain.jpg
 
-Status: 4 - In Work
+Status: 9 - Published
+
+Pub Date: 15 Sep 2019
 
 Seq:    479
 
@@ -27,3 +29,4 @@ Trippy first song and the whole album for that matter. Classic album cover. Enjo
 Body: 
 
 Sort of a psychedelic funk sandwich, with two long mind-blowing cuts at the front and back, along with shorter R&B numbers in between. Definitely brings back that early-seventies feeling of coloring outside of all the lines. I especially liked "You and Your Folks, Me and My Folks." 
+

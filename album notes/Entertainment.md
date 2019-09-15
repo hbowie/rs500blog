@@ -10,7 +10,9 @@ Tags:   post-punk
 
 Image:  entertainment.jpg
 
-Status: 4 - In Work
+Status: 9 - Published
+
+Pub Date: 15 Sep 2019
 
 Seq:    483
 
@@ -27,3 +29,4 @@ This is a cool record. Took a while to find it but I’m glad I did. Has some co
 Body: 
 
 The music and lyrics of this album are designed to make listeners question everything they've been taught or assumed about our modern lives, starting with our ideas about what pop music should sound like, and proceeding on to deal with relationships, economics and what often passes for culture. Very British. Brilliant and essential. Also, unsurprisingly (given the album's opposition to taking anything for granted), not available on streaming services. But available for purchase as a CD. 
+
