@@ -1,5 +1,7 @@
 Title:  Intro
 
+Image:  intro.jpg
+
 Status: 9 - Published
 
 Pub Date: 01 Sep 2019
