@@ -1,0 +1,20 @@
+module	action	modifier	object	value
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	notenik-split-tags		/Users/hbowie/Sites/rs500/album notes
+filter	clear			
+filter	add	ne	Title	
+filter	clear			
+filter	add	ne	Tag	
+filter	set		params	
+filter	clear			
+filter	set		params	
+sort	clear			
+sort	add	ascending	Tag	
+sort	add	ascending	Date	
+sort	add	ascending	Artist	
+sort	add	ascending	Title	
+sort	set		params	
+template	webroot			/Users/hbowie/Sites/rs500/web
+template	open			/Users/hbowie/Sites/rs500/factory/index-by-genre_template.html
+template	generate			

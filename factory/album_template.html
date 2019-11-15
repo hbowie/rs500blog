@@ -1,7 +1,11 @@
 <?nextrec?>
 <?if =$seq$= eq 999 ?>
 <?output "../web/index.html"?>
-<?else?>
+<?endif?>
+<?if =$seq$= eq 998 ?>
+<?output "../web/follow.html"?>
+<?endif?>
+<?if =$seq$= lt 998 ?>
 <?output "../web/albums/=$artist&f$=-=$title&f$=.html"?>
 <?endif?>
 <!DOCTYPE html>
@@ -11,7 +15,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <?if =$seq$= eq 999 ?>
 	<title>Blogging the 500 Greatest Albums of All-Time | RS500.blog</title>
-<?else?>
+<?endif?>
+<?if =$seq$= eq 998 ?>
+	<title>Follow the Blog | RS500.blog</title>
+<?endif?>
+<?if =$seq$= lt 998 ?>
 	<title>=$title$= by =$artist$= | RS500.blog</title>
 <?endif?>
 <?include "../includes/head-links.html" ?>
@@ -36,7 +44,16 @@
 		<li class="nav-item">
 			<a class="nav-link" href="albums/=$prior-artist&f$=-=$prior-title&f$=.html">#=$prior-seq$=</a>
 		</li>
-<?else?>
+<?endif?>
+<?if =$seq$= eq 998 ?>
+		<li class="nav-item">
+			<a class="nav-link active" href="#">Follow</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="albums/=$prior-artist&f$=-=$prior-title&f$=.html">#=$prior-seq$=</a>
+		</li>
+<?endif?>
+<?if =$seq$= lt 998 ?>
 <?include "../nav-includes/higher-than-=$seq$=.html" ?>
 		<li class="nav-item">
 			<a class="nav-link active" href="#">#=$seq$=</a>
@@ -58,7 +75,7 @@
 <cite>=$title$=</cite>
 </h3>
 
-<?if =$seq$= eq 999 ?>
+<?if =$seq$= ge 998 ?>
 <div class="card-text body-text">
 =$body&o$=
 </div>

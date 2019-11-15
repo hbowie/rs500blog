@@ -6,7 +6,7 @@ Label:  Virgin
 
 Date:   2001
 
-Tags:   alt latin
+Tags:   alternative, latin
 
 Image:  esperanza.jpg
 

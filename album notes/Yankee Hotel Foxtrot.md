@@ -6,7 +6,7 @@ Label:  Nonesuch
 
 Date:   2002
 
-Tags:   alt rock
+Tags:   alternative, rock
 
 Image:  yankee-hotel-foxtrot.jpg
 

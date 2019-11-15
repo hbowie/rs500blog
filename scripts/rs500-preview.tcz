@@ -37,6 +37,9 @@ sort	set		params
 template	webroot			/Users/hbowie/Sites/rs500/web
 template	open			/Users/hbowie/Sites/rs500/factory/index-by-artist_template.html
 template	generate
+
+<!-- Generate Index by Year -->
+
 input	set		xpltags	false
 input	set		dirdepth	1
 input	open	notenik-defined		/Users/hbowie/Sites/rs500/album notes
@@ -50,4 +53,55 @@ sort	add	ascending	Seq
 sort	set		params
 template	webroot			/Users/hbowie/Sites/rs500/web
 template	open			/Users/hbowie/Sites/rs500/factory/index-by-year_template.html
+template	generate
+
+<!-- Generate List Going Up -->
+
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	notenik-defined		/Users/hbowie/Sites/rs500/album notes
+filter	clear
+filter	add	ge	Status	4
+filter	add	lt	Seq	999
+filter	set		params
+sort	clear
+sort	add	descending	Seq
+sort	set		params
+template	webroot			/Users/hbowie/Sites/rs500/web
+template	open			/Users/hbowie/Sites/rs500/factory/up_template.html
+template	generate
+
+<!-- Generate RSS Feed -->
+
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	notenik-defined		/Users/hbowie/Sites/rs500/album notes
+filter	clear
+filter	add	ge	Status	4
+filter	add	lt	Seq	999
+filter	set		params
+sort	clear
+sort	add	ascending	Seq
+sort	set		params
+template	webroot			/Users/hbowie/Sites/rs500/web
+template	open			/Users/hbowie/Sites/rs500/factory/rss_template.xml
+template	generate
+
+<!-- Generate Index by Genre -->
+
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	notenik-split-tags		/Users/hbowie/Sites/rs500/album notes
+filter	clear
+filter	add	ge	Status	4
+filter	add	lt	Seq	999
+filter	set		params
+sort	clear
+sort	add	ascending	Tag
+sort	add	ascending	Date
+sort	add	ascending	Artist
+sort	add	ascending	Title
+sort	set		params
+template	webroot			/Users/hbowie/Sites/rs500/web
+template	open			/Users/hbowie/Sites/rs500/factory/index-by-genre_template.html
 template	generate

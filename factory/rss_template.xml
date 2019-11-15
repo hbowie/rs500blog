@@ -1,0 +1,24 @@
+<?output "../web/rss.xml"?>
+<rss version="2.0">
+  <channel>
+    <title>RS500.blog</title>
+    <link>https://rs500.blog/</link>
+    <description>Blogging the 500 Greatest Albums of All Time</description>
+    <language>en</language>
+<?set item-count = 0 ?>
+<?nextrec?>
+<?set item-count += 1 ?>
+<?if =$item-count$= le 10 ?>
+	<item>
+	  <title>=$title&x$=</title>
+	  <link>https://rs500.blog/albums/=$artist&f$=-=$title&f$=.html</link>
+	  <guid>https://rs500.blog/albums/=$artist&f$=-=$title&f$=.html</guid>
+	  <pubdate>=$pubdate&EEE, dd MMM yyyy$= 12:00:00 -0700</pubdate>
+	  <description>
+	  	Thoughts about the '=$title&x$=' album, by =$artist&x$=, released in =$date$= and ranked at #=$seq$=. 
+	  </description>
+	</item>
+<?endif?>
+<?loop?>
+  </channel>
+</rss>

@@ -1,5 +1,6 @@
 body {
   font-family: 'concourse-text', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-variant-numeric: tabular-nums;
   /* font-size: 20px;
   line-height: 1.428571429;
   color: #000000;
@@ -26,4 +27,8 @@ h6 { font-size: 1.0em; }
 .brand-title {
   font-family: concourse_t4regular, 'Helvetica Neue', Helvetica, Arial, serif;
 	font-size: 20px;
+}
+
+span.years {
+  font-variant-numeric: tabular-nums;
 }

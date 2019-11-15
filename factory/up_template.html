@@ -1,0 +1,29 @@
+<?output "../web/up.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<title>Going Up the List</title>
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+<div class="container" style="max-width: 36rem;">
+
+<?include "../includes/navbar.html" ?>
+
+<div class="row">
+<div class="col">
+<h2>Going Up the List</h2>
+<hr />
+<?nextrec?>
+<p>#=$seq$= | <a href="albums/=$artist&f$=-=$title&f$=.html">=$title$=</a> | =$artist$= | =$date$= </p>
+<?loop?>
+</div> <!-- end column    -->
+</div> <!-- end row       -->
+</div> <!-- end container -->
+<script src="=$relative$=js/jquery.min.js"></script>
+<script src="=$relative$=js/popper.min.js"></script>
+<script src="=$relative$=js/bootstrap.min.js"></script>
+</body>
+</html>
