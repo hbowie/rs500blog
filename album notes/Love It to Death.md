@@ -10,13 +10,16 @@ Tags:   rock
 
 Image:  love-it-to-death.jpg
 
-Status: 4 - In Work
+Status: 9 - Published
+
+Pub Date: 16 Nov 2019
 
 Seq:    454
 
 Brian: 
 
 There is one good song on this record... “I’m Eighteen”. Skip the rest. 
+
 
 Charlie: 
 

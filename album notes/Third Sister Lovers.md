@@ -10,13 +10,21 @@ Tags:   rock
 
 Image:  big-star-third.jpg
 
-Status: 4 - In Work
+Status: 9 - Published
+
+Pub Date: 15 Dec 2019
 
 Seq:    449
+
+Brian: 
+
+Listening to this record was a bit of a revelation for me. I did not realize that This Mortal Coil was covering Big Star with “Holocaust” and “Kanga Roo”. Two exceptionally beautiful songs.  I can see why this record has ascended to cult status among songwriters, even if the album today seems a bit all over the place. Best track has to be “Kanga Roo”, a really amazing song. But also listen to the This Mortal Coil cover of it, which is transcendent. 
+
 
 Charlie: 
 
 it’s got great songs on it but clouded by some whacky stuff for me. Solid album overall. One of my favorites was “Thank you friends”.
+
 
 Body: 
 

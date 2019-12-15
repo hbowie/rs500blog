@@ -10,9 +10,16 @@ Tags:   soul
 
 Image:  here-my-dear.jpg
 
-Status: 4 - In Work
+Status: 9 - Published
+
+Pub Date: 16 Nov 2019
 
 Seq:    456
+
+Brian: 
+
+Like a good make-out session, enjoyable but runs together in one long lovin’ haze. Favorite track: “Time to Get It Together”
+
 
 Charlie: 
 

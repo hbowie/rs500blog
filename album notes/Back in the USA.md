@@ -10,13 +10,21 @@ Tags:   rock
 
 Image:  back-in-the-usa.jpg
 
-Status: 4 - In Work
+Status: 9 - Published
+
+Pub Date: 15 Dec 2019
 
 Seq:    446
 
+Brian: 
+
+A great, fun party or road trip album. Easy to imagine the Stooges partying with and being inspired by these guys in Detroit. I imagine this band was a little less produced and polished in person. Must have been a blast. Track pick “Back In The USA”. It may not be an original, but I love how these guys went after this Check Berry song. 
+
+
 Charlie: 
 
-Easy album I love it. Fun and energetic. Favorite song was “teenage lust”
+Easy album I love it. Fun and energetic. Favorite song was “teenage lust”.
+
 
 Body: 
 

@@ -10,9 +10,16 @@ Tags:   rock
 
 Image:  how-will-the-wolf-survive.jpg
 
-Status: 4 - In Work
+Status: 9 - Published
+
+Pub Date: 16 Nov 2019
 
 Seq:    455
+
+Brian: 
+
+Enjoyed this record, though I am not sure I will find myself going back to it. I appreciate Los Lobos as a cross-cultural, very American band, though I would not say their music really stands out for me in the end. Best track, the rockabilly “Evangeline” 
+
 
 Charlie: 
 

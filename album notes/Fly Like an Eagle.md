@@ -10,13 +10,20 @@ Tags:   rock
 
 Image:  fly-like-an-eagle.jpg
 
-Status: 4 - In Work
+Status: 9 - Published
+
+Pub Date: 15 Dec 2019
 
 Seq:    445
 
+Brian: 
+
+Another of those artists and albums I am guilty of over-looking as I was in such a different place when they were at their height and I attached a certain stereotype to them. But this is a solid album, full of good tracks, that is definitely of a time - as in the late ‘70’s. Track pick: “Rock’n Me”. First because I secretly always loved it, and second because it includes a shout out to Tacoma!
+
+
 Charlie: 
 
-Awesome album. Love them all to be honest. My LEAST favorite song is “Fly like an eagle” ironically. But top 3 are “Wild mountain honey” “rock'n me” and “dance, dance, dance”
+Awesome album. Love them all to be honest. My LEAST favorite song is “Fly like an eagle” ironically. But top 3 are “Wild mountain honey” “rock'n me” and “dance, dance, dance”.
 
 
 Body: 

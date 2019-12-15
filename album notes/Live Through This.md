@@ -10,7 +10,9 @@ Tags:   grunge
 
 Image:  live-through-this.jpg
 
-Status: 4 - In Work
+Status: 9 - Published
+
+Pub Date: 16 Nov 2019
 
 Seq:    460
 

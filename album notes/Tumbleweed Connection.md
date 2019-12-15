@@ -10,9 +10,15 @@ Tags:   rock
 
 Image:  tumbleweed-connection.jpg
 
-Status: 4 - In Work
+Status: 9 - Published
+
+Pub Date: 16 Nov 2019
 
 Seq:    458
+
+Brian: 
+
+A very listenable record where John seems to be working through a very American blues and soul sound. In the end this is a record where few of the songs really rise above average and to be honest some are just plain bad, such as “Country Comfort” or “Love”. Honestly I ly that at the feet of Bernie Taupin since John’s music and arrangement is overall strong, but the songs do not say much. In the end the best track is the great “Madman Across The Water” which John repurposed into whole other album a few years later.  
 
 Charlie: 
 

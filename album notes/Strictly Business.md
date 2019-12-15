@@ -10,13 +10,16 @@ Tags:   rap
 
 Image:  epmd-strictly-business.jpg
 
-Status: 4 - In Work
+Status: 9 - Published
+
+Pub Date: 16 Nov 2019
 
 Seq:    453
 
 Brian: 
 
 Fun, but in the end a whole album seems repetitive, even as you can hear how this influenced a lot of artists to come.  I imagine a lot of people who heard this album did not even realize how many samples were used, yet felt it was somehow easy to tap to and sing the chorus behind the rap since they had heard those riffs and beats before. Favorite track “You Gots To Chill”, which also sums up the whole slow-rap vibe and approach of this record. 
+
 
 Charlie: 
 

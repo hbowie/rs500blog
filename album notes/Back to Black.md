@@ -8,9 +8,18 @@ Date:   2007
 
 Tags:   soul
 
-Status: 4 - In Work
+Image:  back-to-black.jpg
+
+Status: 9 - Published
+
+Pub Date: 16 Nov 2019
 
 Seq:    451
+
+Brian: 
+
+Phenomenal album. Both a throwback and contemporary. She was a singular talent, and it is such a shame she did not find the help and support to get through the challenges that led to her death. Should be higher on this list. Hard to pick a track among so many great songs, but I am going with “Rehab”. A personal, original, instant classic.
+
 
 Charlie: 
 

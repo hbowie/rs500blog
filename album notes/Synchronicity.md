@@ -10,9 +10,16 @@ Tags:   rock
 
 Image:  synchronicity.jpg
 
-Status: 4 - In Work
+Status: 9 - Published
+
+Pub Date: 15 Dec 2019
 
 Seq:    448
+
+Brian: 
+
+I was a big Police fan back in the early Eighties, but right around the time this album came out I grew disinterested. I went to this show when they came to Seattle and played the old Coliseum. It was packed with teenage girls and it was clear that Sting and the guys saw a different path than their dark, new wave alt pop I had fallen in love with. Maybe I was just turned off by a ‘mainstream’ Police, which would have been totally in character for me at the time as I gravitated toward Japan, Bauhaus, Gang Of Four, and Black Flag. Listening to this now I don’t think I was wrong. Some decent songs spattered throughout this record, but to me it is overall quite forgettable. Best track: “Murder By Numbers”, clearly the best song on the album.	
+
 
 Charlie: 
 

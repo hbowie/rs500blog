@@ -10,9 +10,21 @@ Tags:   new wave
 
 Image:  we-are-devo.jpg
 
-Status: 4 - In Work
+Status: 9 - Published
+
+Pub Date: 15 Dec 2019
 
 Seq:    442
+
+Brian: 
+
+These guys must have really confused and shocked in 1978, even if you had somehow managed to have already heard Kraftwerk or Talking Heads. I think in some ways their approach - or call it schtick if you like - has gotten in the way of people really hearing them, because this is a really good record from great musicians. It still sounds fresh, and no doubt they had a huge impact. Lots of great tracks here, but I am going to pick the cover “(I Can’t Get No) Satisfaction”. A brilliant take on a great song. “Mongoloid” or “Jocko Homo” easily deserve it too.
+
+
+Charlie: 
+
+Good ol’ devo. Love this record. Fun times. My favorites are the classic “(I can’t get no) Satisfaction” and also “Space Junk”.
+
 
 Body: 
 

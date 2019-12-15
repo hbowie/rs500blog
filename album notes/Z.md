@@ -10,9 +10,15 @@ Tags:   rock
 
 Image:  my-morning-jacket-z.jpg
 
-Status: 4 - In Work
+Status: 9 - Published
+
+Pub Date: 16 Nov 2019
 
 Seq:    457
+
+Brian: 
+
+A wonderful record which is both original and listenable. It likely belongs higher up on this list. So many great songs here, but I am going to go with “Gideon”.
 
 Charlie: 
 

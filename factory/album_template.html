@@ -115,6 +115,7 @@
 <script src="=$relative$=js/bootstrap.min.js"></script>
 </body>
 </html>
+<?if =$seq$= lt 998 ?>
 <?set prior-title = "=$title$=" ?>
 <?set prior-artist = "=$artist$=" ?>
 <?set prior-seq = "=$seq$=" ?>
@@ -124,5 +125,5 @@
 <?set first-title = "=$title$=" ?>
 <?set first-artist = "=$artist$=" ?>
 <?endif?>
-
+<?endif?>
 <?loop?>

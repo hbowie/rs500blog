@@ -10,9 +10,15 @@ Tags:   soul
 
 Image:  drifters-golden-hits
 
-Status: 4 - In Work
+Status: 9 - Published
+
+Pub Date: 16 Nov 2019
 
 Seq:    459
+
+Brian: 
+
+A fun record, and some legendary tracks, but maybe a bit lacking as a whole. Feels like something a producer slammed together to drive sales in the late 60’s when the music scene was clearly moving on from the sound of the The Drifters. Favorite track: “Under The Boardwalk”, an American classic first recorded by The Drifters.
 
 Charlie: 
 
