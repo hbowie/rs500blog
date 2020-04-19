@@ -1,18 +1,29 @@
 Title:  The Rising
 
+Tags:   rock
+
 Artist: Bruce Springsteen
 
 Label:  Columbia
 
 Date:   2002
 
-Tags:   rock
-
 Image:  the-rising.jpg
 
-Status: 4 - In Work
+Status: 9 - Published
+
+Pub Date: 20 Jan 2020
 
 Seq:    424
+
+Brian: 
+
+A solid album. Though I am not a Springsteen fan per say, his songwriting ability is clear on this record. Track pick, “Nothing Man”. 
+
+Charlie: 
+
+I’m not a Springsteen fan. His voice annoys me. An okay album. Has good moments from a band/songwriting standpoint at times. One of the weaker ones we’ve seen so far. “You’re Missing” is pretty good. Onwards!
+
 
 Body: 
 
