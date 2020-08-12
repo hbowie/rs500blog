@@ -24,4 +24,5 @@ Dug this album. Some good songs on here… i'm not a huge Smiths fan but I defin
 
 Body: 
 
-I loved this album. Even though it started life as an odds-and-sods sort of compilation put together to introduce The Smiths to the American market, the content and sequencing betray to my ears none of the problems that usually result from such efforts. And an album cover showing a photo of a smiling woman playwright certainly appeals to me more than one featuring a scrawny [[Siren]] slithering up from the deep. Overall I find this a compelling collection of music consistently portraying a search for meaning in a world that seemingly has not much use for it. "Rubber Ring" was one of my favorite tracks. 
+I loved this album. Even though it started life as an odds-and-sods sort of compilation put together to introduce The Smiths to the American market, the content and sequencing betray to my ears none of the problems that usually result from such efforts. And an album cover showing a photo of a smiling woman playwright certainly appeals to me more than one featuring a scrawny Siren slithering up from the deep. Overall I find this a compelling collection of music consistently portraying a search for meaning in a world that seemingly has not much use for it. "Rubber Ring" was one of my favorite tracks. 
+

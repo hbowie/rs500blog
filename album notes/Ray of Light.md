@@ -22,3 +22,8 @@ I approached this album with trepidation. Skipping it many times but knowing I h
 Charlie: 
 
 The first few songs are really good. The rest didn’t blow my mind but not a bad album. This album is here cause of how it used electronica in mainstream pop which wasn’t done much before this and also it’s got a few good singles. Not my favorite but definitely not my least favorite either. The first song is my pick (really dug it).
+
+
+Body: 
+
+A sweet-tasting bit of pop fluff. Professionally done, with showcase vocals on some of the tracks, but I never found any of it very convincing or compelling. Tasty in small bits, but nothing to stick to these ribs. Repetitive at times, in a way that is probably meant to be hypnotic, but it’s just… not.

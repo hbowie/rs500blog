@@ -1,98 +1,98 @@
 <rss version="2.0">
-<channel>
-<title>RS500.blog</title>
-<link>https://rs500.blog/</link>
-<description>Blogging the 500 Greatest Albums of All Time</description>
-<language>en</language>
-<item>
-<title>Late for the Sky</title>
-<link>https://rs500.blog/albums/jackson-browne-late-for-the-sky.html</link>
-<guid>https://rs500.blog/albums/jackson-browne-late-for-the-sky.html</guid>
-<pubdate>Sat, 20 Jun 2020 12:00:00 -0700</pubdate>
-<description>
-Thoughts about the 'Late for the Sky' album, by Jackson Browne, released in 1974 and ranked at #375.
-</description>
-</item>
-<item>
-<title>Post</title>
-<link>https://rs500.blog/albums/bjrk-post.html</link>
-<guid>https://rs500.blog/albums/bjrk-post.html</guid>
-<pubdate>Sat, 20 Jun 2020 12:00:00 -0700</pubdate>
-<description>
-Thoughts about the 'Post' album, by Björk, released in 1995 and ranked at #376.
-</description>
-</item>
-<item>
-<title>John Lee Hooker: The Ultimate Collection</title>
-<link>https://rs500.blog/albums/john-lee-hooker-john-lee-hooker-the-ultimate-collection.html</link>
-<guid>https://rs500.blog/albums/john-lee-hooker-john-lee-hooker-the-ultimate-collection.html</guid>
-<pubdate>Sat, 20 Jun 2020 12:00:00 -0700</pubdate>
-<description>
-Thoughts about the 'John Lee Hooker: The Ultimate Collection' album, by John Lee Hooker, released in 1991 and ranked at #377.
-</description>
-</item>
-<item>
-<title>(What&apos;s the Story) Morning Glory?</title>
-<link>https://rs500.blog/albums/oasis-whats-the-story-morning-glory.html</link>
-<guid>https://rs500.blog/albums/oasis-whats-the-story-morning-glory.html</guid>
-<pubdate>Sat, 20 Jun 2020 12:00:00 -0700</pubdate>
-<description>
-Thoughts about the '(What&apos;s the Story) Morning Glory?' album, by Oasis, released in 1995 and ranked at #378.
-</description>
-</item>
-<item>
-<title>CrazySexyCool</title>
-<link>https://rs500.blog/albums/tlc-crazysexycool.html</link>
-<guid>https://rs500.blog/albums/tlc-crazysexycool.html</guid>
-<pubdate>Sat, 20 Jun 2020 12:00:00 -0700</pubdate>
-<description>
-Thoughts about the 'CrazySexyCool' album, by TLC, released in 1994 and ranked at #379.
-</description>
-</item>
-<item>
-<title>Funky Kingston</title>
-<link>https://rs500.blog/albums/toots-and-the-maytals-funky-kingston.html</link>
-<guid>https://rs500.blog/albums/toots-and-the-maytals-funky-kingston.html</guid>
-<pubdate>Sat, 20 Jun 2020 12:00:00 -0700</pubdate>
-<description>
-Thoughts about the 'Funky Kingston' album, by Toots and the Maytals, released in 1975 and ranked at #380.
-</description>
-</item>
-<item>
-<title>Smile (2011 Version)</title>
-<link>https://rs500.blog/albums/the-beach-boys-smile-2011-version.html</link>
-<guid>https://rs500.blog/albums/the-beach-boys-smile-2011-version.html</guid>
-<pubdate>Sat, 20 Jun 2020 12:00:00 -0700</pubdate>
-<description>
-Thoughts about the 'Smile (2011 Version)' album, by The Beach Boys, released in 2011 and ranked at #381.
-</description>
-</item>
-<item>
-<title>Modern Lovers</title>
-<link>https://rs500.blog/albums/modern-lovers-modern-lovers.html</link>
-<guid>https://rs500.blog/albums/modern-lovers-modern-lovers.html</guid>
-<pubdate>Sat, 20 Jun 2020 12:00:00 -0700</pubdate>
-<description>
-Thoughts about the 'Modern Lovers' album, by Modern Lovers, released in 1976 and ranked at #382.
-</description>
-</item>
-<item>
-<title>More Songs About Buildings and Food</title>
-<link>https://rs500.blog/albums/talking-heads-more-songs-about-buildings-and-food.html</link>
-<guid>https://rs500.blog/albums/talking-heads-more-songs-about-buildings-and-food.html</guid>
-<pubdate>Sat, 20 Jun 2020 12:00:00 -0700</pubdate>
-<description>
-Thoughts about the 'More Songs About Buildings and Food' album, by Talking Heads, released in 1978 and ranked at #383.
-</description>
-</item>
-<item>
-<title>A Quick One</title>
-<link>https://rs500.blog/albums/the-who-a-quick-one.html</link>
-<guid>https://rs500.blog/albums/the-who-a-quick-one.html</guid>
-<pubdate>Sat, 20 Jun 2020 12:00:00 -0700</pubdate>
-<description>
-Thoughts about the 'A Quick One' album, by The Who, released in 1966 and ranked at #384.
-</description>
-</item>
-</channel>
+  <channel>
+    <title>RS500.blog</title>
+    <link>https://rs500.blog/</link>
+    <description>Blogging the 500 Greatest Albums of All Time</description>
+    <language>en</language>
+	<item>
+	  <title>At Newport 1960</title>
+	  <link>https://rs500.blog/albums/muddy-waters-at-newport-1960.html</link>
+	  <guid>https://rs500.blog/albums/muddy-waters-at-newport-1960.html</guid>
+	  <pubdate> 12:00:00 -0700</pubdate>
+	  <description>
+	  	Thoughts about the 'At Newport 1960' album, by Muddy Waters, released in 1960 and ranked at #348. 
+	  </description>
+	</item>
+	<item>
+	  <title>Rust Never Sleeps</title>
+	  <link>https://rs500.blog/albums/neil-young-rust-never-sleeps.html</link>
+	  <guid>https://rs500.blog/albums/neil-young-rust-never-sleeps.html</guid>
+	  <pubdate> 12:00:00 -0700</pubdate>
+	  <description>
+	  	Thoughts about the 'Rust Never Sleeps' album, by Neil Young, released in 1979 and ranked at #351. 
+	  </description>
+	</item>
+	<item>
+	  <title>Brothers In Arms</title>
+	  <link>https://rs500.blog/albums/dire-straits-brothers-in-arms.html</link>
+	  <guid>https://rs500.blog/albums/dire-straits-brothers-in-arms.html</guid>
+	  <pubdate> 12:00:00 -0700</pubdate>
+	  <description>
+	  	Thoughts about the 'Brothers In Arms' album, by Dire Straits, released in 1985 and ranked at #352. 
+	  </description>
+	</item>
+	<item>
+	  <title>My Beautiful Dark Twisted Fantasy</title>
+	  <link>https://rs500.blog/albums/kanye-west-my-beautiful-dark-twisted-fantasy.html</link>
+	  <guid>https://rs500.blog/albums/kanye-west-my-beautiful-dark-twisted-fantasy.html</guid>
+	  <pubdate> 12:00:00 -0700</pubdate>
+	  <description>
+	  	Thoughts about the 'My Beautiful Dark Twisted Fantasy' album, by Kanye West, released in 2010 and ranked at #353. 
+	  </description>
+	</item>
+	<item>
+	  <title>52nd Street</title>
+	  <link>https://rs500.blog/albums/billy-joel-52nd-street.html</link>
+	  <guid>https://rs500.blog/albums/billy-joel-52nd-street.html</guid>
+	  <pubdate> 12:00:00 -0700</pubdate>
+	  <description>
+	  	Thoughts about the '52nd Street' album, by Billy Joel, released in 1978 and ranked at #354. 
+	  </description>
+	</item>
+	<item>
+	  <title>Having a Rave Up With the Yardbirds</title>
+	  <link>https://rs500.blog/albums/the-yardbirds-having-a-rave-up-with-the-yardbirds.html</link>
+	  <guid>https://rs500.blog/albums/the-yardbirds-having-a-rave-up-with-the-yardbirds.html</guid>
+	  <pubdate> 12:00:00 -0700</pubdate>
+	  <description>
+	  	Thoughts about the 'Having a Rave Up With the Yardbirds' album, by The Yardbirds, released in 1965 and ranked at #355. 
+	  </description>
+	</item>
+	<item>
+	  <title>12 Songs</title>
+	  <link>https://rs500.blog/albums/randy-newman-12-songs.html</link>
+	  <guid>https://rs500.blog/albums/randy-newman-12-songs.html</guid>
+	  <pubdate> 12:00:00 -0700</pubdate>
+	  <description>
+	  	Thoughts about the '12 Songs' album, by Randy Newman, released in 1970 and ranked at #356. 
+	  </description>
+	</item>
+	<item>
+	  <title>Between the Buttons</title>
+	  <link>https://rs500.blog/albums/the-rolling-stones-between-the-buttons.html</link>
+	  <guid>https://rs500.blog/albums/the-rolling-stones-between-the-buttons.html</guid>
+	  <pubdate> 12:00:00 -0700</pubdate>
+	  <description>
+	  	Thoughts about the 'Between the Buttons' album, by The Rolling Stones, released in 1967 and ranked at #357. 
+	  </description>
+	</item>
+	<item>
+	  <title>Sketches of Spain</title>
+	  <link>https://rs500.blog/albums/miles-davis-sketches-of-spain.html</link>
+	  <guid>https://rs500.blog/albums/miles-davis-sketches-of-spain.html</guid>
+	  <pubdate> 12:00:00 -0700</pubdate>
+	  <description>
+	  	Thoughts about the 'Sketches of Spain' album, by Miles Davis, released in 1960 and ranked at #358. 
+	  </description>
+	</item>
+	<item>
+	  <title>Honky Château</title>
+	  <link>https://rs500.blog/albums/elton-john-honky-chteau.html</link>
+	  <guid>https://rs500.blog/albums/elton-john-honky-chteau.html</guid>
+	  <pubdate> 12:00:00 -0700</pubdate>
+	  <description>
+	  	Thoughts about the 'Honky Château' album, by Elton John, released in 1972 and ranked at #359. 
+	  </description>
+	</item>
+  </channel>
 </rss>

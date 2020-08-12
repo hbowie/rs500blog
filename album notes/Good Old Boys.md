@@ -1,6 +1,6 @@
 Title:  Good Old Boys
 
-Tags:   rock
+Tags:   singer-songwriter
 
 Artist: Randy Newman
 
